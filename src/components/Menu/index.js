@@ -22,7 +22,7 @@ export default function Menu({translateY}) {
       }}>
       <Code>
         <QRCode
-          value="https://rocketseat.com.br"
+          value="https://github.com/lucassouza97/clone-interface-nubank-rn"
           size={70}
           bgColor="#FFF"
           color="#8B10AE"
