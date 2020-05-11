@@ -1,4 +1,4 @@
-# clone Interface Nubank
+# Interface nubank
 > Clone realizado em uma aula da Rocketseat disponibilizada no youtube, o link encontra-se disponível abaixo, tive a oportunidade de conhecer features novas do React Native como a Animation durante o treinamento realizado.
 
 [![NPM Version][npm-image]][npm-url]
